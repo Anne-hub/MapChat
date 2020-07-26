@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_map"
+        android:icon="@drawable/app_ic_letter_w"
+        android:title="@string/srr_map" />
+    <item
+        android:id="@+id/tab_chat"
+        android:icon="@drawable/app_ic_letter_a"
+        android:title="@string/str_chat" />
+    <item
+        android:id="@+id/tab_circle"
+        android:icon="@drawable/app_ic_letter_k"
+        android:title="@string/str_circle" />
+    <item
+        android:id="@+id/tab_mine"
+        android:icon="@drawable/app_ic_letter_f"
+        android:title="@string/str_mine" />
+</menu>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MapChat</string>
+    <string name="srr_map">map</string>
+    <string name="str_chat">chat</string>
+    <string name="str_circle">circle</string>
+    <string name="str_mine">mine</string>
 </resources>

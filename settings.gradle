@@ -1,2 +1,3 @@
 rootProject.name='MapChat'
-include ':app'
+include ':app', ':easeui', ':simpledemo'
+include ':basic'
